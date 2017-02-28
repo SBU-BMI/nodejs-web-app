@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Cancer Type</title>
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.10.12/css/jquery.dataTables.min.css">
+    <script src="//code.jquery.com/jquery-1.12.3.js"></script>
+    <script src="https://cdn.datatables.net/1.10.12/js/jquery.dataTables.min.js"></script>
+</head>
+<body>
+
+<!-- data will come from json file -->
+<table id="example" class="display" cellspacing="0" width="100%">
+    <thead>
+    <tr>
+        <th>cancer_type</th>
+    </tr>
+    </thead>
+    <tfoot>
+    <tr>
+        <th>cancer_type</th>
+    </tr>
+    </tfoot>
+</table>
+
+<!-- data will come from json file -->
+<!--
+<table id="example" class="display" cellspacing="0" width="100%">
+    <thead>
+    <tr>
+        <th>cancer_type</th>
+    </tr>
+    </thead>
+    <tfoot>
+    <tr>
+        <th>cancer_type</th>
+    </tr>
+    </tfoot>
+    <tbody>
+    <tr>
+        <td>brca</td>
+    </tr>
+    <tr>
+        <td>gbm</td>
+    </tr>
+    <tr>
+        <td>lgg</td>
+    </tr>
+    <tr>
+        <td>luad</td>
+    </tr>
+    <tr>
+        <td>paad</td>
+    </tr>
+
+    </tbody>
+</table>
+-->
+
+<script>
+$(document).ready(function() {
+
+    // Data in <td>
+    // var table = $('#example').DataTable();
+
+    // Data from json
+    var table = $('#example').DataTable({
+        "ajax": "data/cancer_type.json",
+        "columns": [{
+            "data": "cancer_type"
+        }]
+    });
+
+    $('#example tbody').on('click', 'tr', function() {
+
+        var data = table.row(this).data();
+        // If using static table <td> data, use data[0];
+        // Else, when getting data from json, use data.property.
+        document.location.href = "data-tables.html?u24_" + data.cancer_type;
+
+        //document.location.href = "data-tables.html?u24_" + data.cancer_type;
+        //http://quip1.bmi.stonybrook.edu:4000/cancer_select
+        //alert('You clicked on ' + data.cancer_type + '\'s row');
+    });
+
+});
+</script>
+
+</body>
+</html>

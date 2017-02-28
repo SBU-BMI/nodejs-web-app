@@ -1,3 +1,13 @@
+# Mac
+.DS_Store
+
+# Webstorm
+.idea/*
+
+#
+# Node.js
+#
+
 # Logs
 logs
 *.log
@@ -35,3 +45,4 @@ jspm_packages
 
 # Optional REPL history
 .node_repl_history
+

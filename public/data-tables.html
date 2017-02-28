@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Data Tables</title>
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.10.12/css/jquery.dataTables.min.css">
+    <script src="//code.jquery.com/jquery-1.12.3.js"></script>
+    <script src="https://cdn.datatables.net/1.10.12/js/jquery.dataTables.min.js"></script>
+</head>
+<body>
+<table id="example" class="display" cellspacing="0" width="100%">
+    <thead>
+    <tr>
+        <th>cancer_type</th>
+        <th>case_id</th>
+        <th>objective</th>
+    </tr>
+    </thead>
+    <tfoot>
+    <tr>
+        <th>cancer_type</th>
+        <th>case_id</th>
+        <th>objective</th>
+    </tr>
+    </tfoot>
+</table>
+<script>
+    $(document).ready(function () {
+        fsstatic();
+    });
+
+    function find() {
+        var db = location.search.slice(1);
+        var url = 'http://quip1.bmi.stonybrook.edu:4000/?limit=2000&collection=images&project={"cancer_type":1,"case_id":1,"objective":1,"_id":0}&db=' + db;
+        console.log(url);
+
+        var table = $('#example').DataTable({
+            "ajax": url,
+            "columns": [
+                {data: 0},
+                {data: 1},
+                {data: 2}
+            ]
+        });
+
+        $('#example tbody').on('click', 'tr', function () {
+            var data = table.row(this).data();
+            var quipUrl = "http://quip1.uhmc.sunysb.edu/camicroscope/osdCamicroscope.php?tissueId="
+                    + data[1] + "&cancerType=" + data[0];
+            document.location.href = quipUrl;
+        });
+    }
+
+    function fsstatic() {
+        var db = location.search.slice(1);
+        var url = "data/" + db + ".json";
+        //var url = "data/u24_gbm1.json";
+
+        var table = $('#example').DataTable({
+            "ajax": url,
+            "columns": [
+                {"data": "cancer_type"},
+                {"data": "case_id"},
+                {"data": "objective"}
+            ]
+        });
+
+        $('#example tbody').on('click', 'tr', function () {
+            var data = table.row(this).data();
+            var quipUrl = "http://quip1.uhmc.sunysb.edu/camicroscope/osdCamicroscope.php?tissueId="
+                    + data.case_id + "&cancerType=" + data.cancer_type;
+            document.location.href = quipUrl;
+        });
+    }
+</script>
+</body>
+</html>

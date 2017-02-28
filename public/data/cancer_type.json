@@ -1,0 +1,19 @@
+{
+  "data": [
+    {
+      "cancer_type": "brca"
+    },
+    {
+      "cancer_type": "gbm"
+    },
+    {
+      "cancer_type": "lgg"
+    },
+    {
+      "cancer_type": "luad"
+    },
+    {
+      "cancer_type": "paad"
+    }
+  ]
+}

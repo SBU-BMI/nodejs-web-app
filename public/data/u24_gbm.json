@@ -1,0 +1,3858 @@
+{
+	"data": [
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-02-0001-01Z-00-DX3",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-02-0001-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-02-0003-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-02-0004-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-02-0006-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-02-0009-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-02-0007-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-0656-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-02-0009-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-02-0010-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-02-0003-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-02-0010-01Z-00-DX3",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-02-0010-01Z-00-DX4",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-02-0014-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-02-0010-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-02-0015-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-02-0025-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-02-0025-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-02-0026-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-02-0033-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-02-0034-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-02-0023-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-02-0037-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-02-0085-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-02-0034-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-02-0258-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-02-0266-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-02-0269-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-02-0285-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-02-0317-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-02-0326-01Z-00-DX3",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-02-0330-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-02-0281-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-02-0333-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-02-0339-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-02-0332-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-02-0439-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-02-0440-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-02-0422-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-02-0439-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-02-0024-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-02-0325-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-02-0021-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-02-0338-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-02-0289-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-02-0446-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0122-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0124-01Z-00-DX3",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-02-0430-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0124-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-02-0026-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-02-0451-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0126-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0125-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0124-01Z-00-DX4",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0127-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0127-01Z-00-DX3",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-02-0451-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0128-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0124-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0126-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0128-01Z-00-DX5",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0129-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0124-01Z-00-DX5",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0122-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0130-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0130-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0124-01Z-00-DX6",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0133-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0137-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0137-01Z-00-DX4",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0137-01Z-00-DX5",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0129-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0137-01Z-00-DX6",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0137-01Z-00-DX7",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0128-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0138-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0133-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0129-01Z-00-DX3",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0137-01Z-00-DX3",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0127-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0138-01Z-00-DX3",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0141-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0139-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0139-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0141-01Z-00-DX3",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0122-01Z-00-DX3",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0143-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0143-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0137-01Z-00-DX8",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0145-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0145-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0128-01Z-00-DX3",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0145-01Z-00-DX3",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0145-01Z-00-DX5",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0141-01Z-00-DX5",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0138-01Z-00-DX4",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0147-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0138-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0128-01Z-00-DX4",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0148-01Z-00-DX3",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0148-01Z-00-DX5",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0141-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0152-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0125-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0152-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0143-01Z-00-DX3",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0152-01Z-00-DX5",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0152-01Z-00-DX8",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0148-01Z-00-DX4",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0152-01Z-00-DX9",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0141-01Z-00-DX4",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0154-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0154-01Z-00-DX3",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0148-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0152-01Z-00-DX3",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0145-01Z-00-DX4",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0152-01Z-00-DX7",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0154-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0157-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0156-01Z-00-DX4",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0156-01Z-00-DX3",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0148-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0157-01Z-00-DX3",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0166-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0156-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0157-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0166-01Z-00-DX3",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0152-01Z-00-DX6",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0166-01Z-00-DX5",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0157-01Z-00-DX5",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0166-01Z-00-DX6",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0156-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0158-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0166-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0168-01Z-00-DX3",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0147-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0157-01Z-00-DX4",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0171-01Z-00-DX3",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0171-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0168-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0173-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0171-01Z-00-DX5",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0171-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0173-01Z-00-DX3",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0174-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0166-01Z-00-DX7",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0173-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0176-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0171-01Z-00-DX4",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0166-01Z-00-DX4",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0178-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0174-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0178-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0169-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0178-01Z-00-DX3",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0178-01Z-00-DX4",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0174-01Z-00-DX4",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0176-01Z-00-DX3",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0176-01Z-00-DX4",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0174-01Z-00-DX3",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0184-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0184-01Z-00-DX3",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0178-01Z-00-DX5",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0185-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0152-01Z-00-DX4",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0187-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0184-01Z-00-DX4",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0187-01Z-00-DX3",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0176-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0187-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0178-01Z-00-DX6",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0188-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0154-01Z-00-DX4",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0188-01Z-00-DX6",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0188-01Z-00-DX4",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0188-01Z-00-DX7",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0178-01Z-00-DX7",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0188-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0189-01Z-00-DX3",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0189-01Z-00-DX4",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0192-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0190-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0168-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0189-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0195-01Z-00-DX3",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0195-01Z-00-DX4",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0188-01Z-00-DX3",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0197-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0197-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0197-01Z-00-DX3",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0201-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0201-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0187-01Z-00-DX4",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0206-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0206-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0206-01Z-00-DX3",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0206-01Z-00-DX4",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0208-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0208-01Z-00-DX3",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0208-01Z-00-DX4",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0208-01Z-00-DX5",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0208-01Z-00-DX6",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0188-01Z-00-DX5",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0184-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0209-01Z-00-DX5",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0209-01Z-00-DX4",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0192-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0209-01Z-00-DX6",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0195-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0209-01Z-00-DX7",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0189-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0210-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0210-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0209-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0209-01Z-00-DX8",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0211-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0213-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0210-01Z-00-DX4",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0213-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0208-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0213-01Z-00-DX3",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0213-01Z-00-DX4",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0211-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0210-01Z-00-DX5",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0209-01Z-00-DX3",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0213-01Z-00-DX5",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0216-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0209-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0216-01Z-00-DX4",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0216-01Z-00-DX5",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0219-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0214-01Z-00-DX3",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0221-01Z-00-DX3",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0221-01Z-00-DX4",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0221-01Z-00-DX5",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0221-01Z-00-DX6",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0237-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0237-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0214-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0238-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0644-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0241-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0645-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0646-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0195-01Z-00-DX5",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0216-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0216-01Z-00-DX3",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0219-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0195-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0221-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0178-01Z-00-DX8",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0210-01Z-00-DX3",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0214-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0221-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0646-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0646-01Z-00-DX3",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0648-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0648-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0649-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0649-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0743-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0744-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0745-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0686-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0747-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0747-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0747-01Z-00-DX3",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0749-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0747-01Z-00-DX4",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0749-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0749-01Z-00-DX3",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0749-01Z-00-DX4",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0750-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0750-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0750-01Z-00-DX3",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0747-01Z-00-DX5",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0750-01Z-00-DX4",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0876-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0877-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0686-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0875-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0879-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0878-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0881-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0881-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0876-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-1084-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0879-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0882-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-1087-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-1800-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0875-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-1801-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-1086-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-1802-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-1805-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-1084-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-5408-01Z-00-DX1",
+		"objective" : 40
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-1800-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-5412-01Z-00-DX1",
+		"objective" : 40
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-1805-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0877-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0882-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-5415-01Z-00-DX1",
+		"objective" : 40
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-1086-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-5417-01Z-00-DX1",
+		"objective" : 40
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-5410-01Z-00-DX1",
+		"objective" : 40
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-5856-01Z-00-DX1",
+		"objective" : 40
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-5411-01Z-00-DX1",
+		"objective" : 40
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-5859-01Z-00-DX1",
+		"objective" : 40
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-5858-01Z-00-DX1",
+		"objective" : 40
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-1801-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-5413-01Z-00-DX1",
+		"objective" : 40
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-6391-01Z-00-DX1",
+		"objective" : 40
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-1087-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-08-0352-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-5418-01Z-00-DX1",
+		"objective" : 40
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-6388-01Z-00-DX1",
+		"objective" : 40
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-0878-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-1802-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-6389-01Z-00-DX1",
+		"objective" : 40
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-5416-01Z-00-DX1",
+		"objective" : 40
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-5414-01Z-00-DX1",
+		"objective" : 40
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-08-0358-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-08-0518-01Z-00-DX8",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-08-0518-01Z-00-DX3",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-08-0520-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-08-0521-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-08-0518-01Z-00-DX7",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-08-0522-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-08-0524-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-08-0518-01Z-00-DX6",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-08-0518-01Z-00-DX5",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-08-0525-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-08-0525-01Z-00-DX3",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-08-0518-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-08-0525-01Z-00-DX4",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-08-0352-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-08-0522-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-0615-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-08-0524-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-0615-01Z-00-DX3",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-08-0524-01Z-00-DX3",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-08-0525-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-0616-01Z-00-DX4",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-0616-01Z-00-DX5",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-08-0529-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-0615-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-0616-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-0618-01Z-00-DX3",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-0618-01Z-00-DX4",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-0619-01Z-00-DX1",
+		"objective" : 40
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-0619-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-0619-01Z-00-DX3",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-0620-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-08-0518-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-0620-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-06-6390-01Z-00-DX1",
+		"objective" : 40
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-0618-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-0654-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-0654-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-0654-01Z-00-DX3",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-0654-01Z-00-DX4",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-0653-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-0656-01Z-00-DX4",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-0616-01Z-00-DX6",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-08-0518-01Z-00-DX4",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-0657-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-0616-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-0616-01Z-00-DX3",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-0656-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-0662-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-0662-01Z-00-DX3",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-0657-01Z-00-DX4",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-0662-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-0618-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-0657-01Z-00-DX3",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-0670-01Z-00-DX4",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-0656-01Z-00-DX3",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-0688-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-0657-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-0670-01Z-00-DX3",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-0688-01Z-00-DX5",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-0691-01Z-00-DX3",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-0691-01Z-00-DX4",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-0670-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-0691-01Z-00-DX5",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-0662-01Z-00-DX4",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-0692-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-0692-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-0688-01Z-00-DX3",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-0620-01Z-00-DX3",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-0692-01Z-00-DX3",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-0692-01Z-00-DX4",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-0691-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-0688-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-0703-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-0691-01Z-00-DX6",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-0707-01Z-00-DX3",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-0691-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-0688-01Z-00-DX4",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-0769-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-0769-01Z-00-DX3",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-0703-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-0769-01Z-00-DX4",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-0703-01Z-00-DX3",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-0769-01Z-00-DX5",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-0769-01Z-00-DX6",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-0769-01Z-00-DX7",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-0772-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-0772-01Z-00-DX3",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-0772-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-0773-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-0707-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-0773-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-08-0517-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-0773-01Z-00-DX3",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-0772-01Z-00-DX4",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-0773-01Z-00-DX4",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-0707-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-0773-01Z-00-DX6",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-0773-01Z-00-DX5",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-0775-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-0775-01Z-00-DX3",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-0692-01Z-00-DX5",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-0707-01Z-00-DX4",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-0775-01Z-00-DX4",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-0778-01Z-00-DX4",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-0778-01Z-00-DX5",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-0778-01Z-00-DX6",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-0780-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-0778-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-0780-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-0776-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-0776-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-0775-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-0778-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-0769-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-0780-01Z-00-DX3",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-0818-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-0818-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-0776-01Z-00-DX3",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-0818-01Z-00-DX4",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-0670-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-0818-01Z-00-DX3",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-0818-01Z-00-DX5",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-0822-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-0819-01Z-00-DX3",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-0821-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-0822-01Z-00-DX4",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-0778-01Z-00-DX3",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-0826-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-0821-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-0821-01Z-00-DX3",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-0819-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-0827-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-0822-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-0707-01Z-00-DX5",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-0828-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-0828-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-0822-01Z-00-DX5",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-0820-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-0829-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-1088-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-0826-01Z-00-DX3",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-1088-01Z-00-DX3",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-0828-01Z-00-DX3",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-1090-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-1089-01Z-00-DX3",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-0826-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-1090-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-1091-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-0819-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-1091-01Z-00-DX3",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-1092-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-1093-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-1093-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-0827-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-1091-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-1095-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-1089-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-1095-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-1092-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-0827-01Z-00-DX3",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-1089-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-0829-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-1096-01Z-00-DX4",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-1094-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-1088-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-1098-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-1096-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-1098-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-0822-01Z-00-DX3",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-1099-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-1096-01Z-00-DX3",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-1598-01Z-00-DX3",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-1598-01Z-00-DX4",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-1094-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-1097-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-1096-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-1599-01Z-00-DX3",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-1099-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-1598-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-1097-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-1600-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-1598-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-1602-01Z-00-DX3",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-1602-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-3644-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-3646-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-1600-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-3646-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-3648-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-3644-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-1095-01Z-00-DX3",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-1602-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-1599-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-3649-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-1099-01Z-00-DX3",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-3651-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-1599-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-1097-01Z-00-DX3",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-3651-01Z-00-DX3",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-3648-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-1602-01Z-00-DX5",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-3652-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-1602-01Z-00-DX4",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-3653-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-3648-01Z-00-DX3",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-3650-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-3653-01Z-00-DX3",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-3651-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-3653-01Z-00-DX4",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-14-0783-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-14-0783-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-3652-01Z-00-DX3",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-14-0783-01Z-00-DX4",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-14-0786-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-3650-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-14-0783-01Z-00-DX3",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-14-0787-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-14-0789-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-14-0786-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-3652-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-14-0789-01Z-00-DX4",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-3653-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-14-0789-01Z-00-DX5",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-14-0789-01Z-00-DX7",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-14-0813-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-14-0813-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-14-0813-01Z-00-DX3",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-14-0789-01Z-00-DX3",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-14-0789-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-14-0817-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-3651-01Z-00-DX4",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-14-0867-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-14-0867-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-14-0786-01Z-00-DX3",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-14-0787-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-14-0817-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-14-0817-01Z-00-DX3",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-14-1034-01Z-00-DX3",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-14-0789-01Z-00-DX6",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-3652-01Z-00-DX4",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-14-1037-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-14-0867-01Z-00-DX3",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-14-1396-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-3649-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-14-0871-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-14-1402-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-14-1034-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-14-1402-01Z-00-DX3",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-12-3649-01Z-00-DX3",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-14-1401-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-14-1452-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-14-1401-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-14-1452-01Z-00-DX3",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-14-1452-01Z-00-DX5",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-14-0871-01Z-00-DX3",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-14-1453-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-14-1402-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-14-1037-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-14-1451-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-14-1454-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-14-1458-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-14-1455-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-14-1034-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-14-1458-01Z-00-DX3",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-14-1458-01Z-00-DX4",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-14-1401-01Z-00-DX3",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-14-1453-01Z-00-DX4",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-14-1459-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-14-1458-01Z-00-DX5",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-14-1459-01Z-00-DX3",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-14-0871-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-14-1452-01Z-00-DX4",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-14-1453-01Z-00-DX3",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-14-1794-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-14-1795-01Z-00-DX3",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-14-1795-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-14-1459-01Z-00-DX5",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-14-1795-01Z-00-DX5",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-14-1455-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-14-1459-01Z-00-DX4",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-14-1795-01Z-00-DX7",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-14-1821-01Z-00-DX3",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-14-1821-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-14-1795-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-14-1823-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-14-1452-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-14-1795-01Z-00-DX4",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-14-1458-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-14-1795-01Z-00-DX6",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-14-1825-01Z-00-DX3",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-14-1825-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-14-1823-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-14-1827-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-14-1827-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-14-1829-01Z-00-DX3",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-14-1829-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-14-1829-01Z-00-DX4",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-14-1821-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-14-1829-01Z-00-DX6",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-14-1794-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-14-1453-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-15-0742-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-14-1829-01Z-00-DX8",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-15-0742-01Z-00-DX2",
+		"objective" : 40
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-14-1823-01Z-00-DX4",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-15-1444-01Z-00-DX2",
+		"objective" : 40
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-14-1829-01Z-00-DX5",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-14-1825-01Z-00-DX4",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-15-1447-01Z-00-DX2",
+		"objective" : 40
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-14-1823-01Z-00-DX3",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-14-1825-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-15-1449-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-15-1449-01Z-00-DX3",
+		"objective" : 40
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-15-1446-01Z-00-DX2",
+		"objective" : 40
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-14-1459-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-14-1829-01Z-00-DX7",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-19-0963-01Z-00-DX1",
+		"objective" : 40
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-15-1447-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-19-0964-01Z-00-DX1",
+		"objective" : 40
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-15-1447-01Z-00-DX3",
+		"objective" : 40
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-19-1385-01Z-00-DX1",
+		"objective" : 40
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-19-1386-01Z-00-DX1",
+		"objective" : 40
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-15-1444-01Z-00-DX1",
+		"objective" : 40
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-19-1390-01Z-00-DX1",
+		"objective" : 40
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-19-0957-01Z-00-DX1",
+		"objective" : 40
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-19-1787-01Z-00-DX1",
+		"objective" : 40
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-19-1788-01Z-00-DX1",
+		"objective" : 40
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-19-1387-01Z-00-DX1",
+		"objective" : 40
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-19-1789-01Z-00-DX1",
+		"objective" : 40
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-14-1829-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-15-1446-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-19-1392-01Z-00-DX1",
+		"objective" : 40
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-19-1786-01Z-00-DX1",
+		"objective" : 40
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-19-0962-01Z-00-DX1",
+		"objective" : 40
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-19-2624-01Z-00-DX1",
+		"objective" : 40
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-19-0960-01Z-00-DX1",
+		"objective" : 40
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-19-2625-01Z-00-DX1",
+		"objective" : 40
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-19-2631-01Z-00-DX1",
+		"objective" : 40
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-19-1791-01Z-00-DX1",
+		"objective" : 40
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-19-2629-01Z-00-DX1",
+		"objective" : 40
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-19-4068-01Z-00-DX1",
+		"objective" : 40
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-19-2620-01Z-00-DX1",
+		"objective" : 40
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-19-5947-01Z-00-DX1",
+		"objective" : 40
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-19-5951-01Z-00-DX1",
+		"objective" : 40
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-19-2623-01Z-00-DX1",
+		"objective" : 40
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-19-4065-01Z-00-DX1",
+		"objective" : 40
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-19-1790-01Z-00-DX1",
+		"objective" : 40
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-19-5952-01Z-00-DX1",
+		"objective" : 40
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-19-2621-01Z-00-DX1",
+		"objective" : 40
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-15-1449-01Z-00-DX2",
+		"objective" : 40
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-19-0955-01Z-00-DX1",
+		"objective" : 40
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-19-5958-01Z-00-DX1",
+		"objective" : 40
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-19-5956-01Z-00-DX1",
+		"objective" : 40
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-19-5959-01Z-00-DX1",
+		"objective" : 40
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-19-5960-01Z-00-DX1",
+		"objective" : 40
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-19-2619-01Z-00-DX1",
+		"objective" : 40
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-19-5950-01Z-00-DX1",
+		"objective" : 40
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-19-A60I-01Z-00-DX1",
+		"objective" : 40
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-19-A60I-01Z-00-DX5",
+		"objective" : 40
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-19-A60I-01Z-00-DX6",
+		"objective" : 40
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-19-5954-01Z-00-DX1",
+		"objective" : 40
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-19-A6J5-01Z-00-DX1",
+		"objective" : 40
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-19-A60I-01Z-00-DX3",
+		"objective" : 40
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-19-A6J5-01Z-00-DX4",
+		"objective" : 40
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-19-A60I-01Z-00-DX4",
+		"objective" : 40
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-19-5953-01Z-00-DX1",
+		"objective" : 40
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-26-1440-01Z-00-DX1",
+		"objective" : 40
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-26-1442-01Z-00-DX1",
+		"objective" : 40
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-19-A6J5-01Z-00-DX3",
+		"objective" : 40
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-26-1799-01Z-00-DX1",
+		"objective" : 40
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-19-A60I-01Z-00-DX2",
+		"objective" : 40
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-26-1438-01Z-00-DX1",
+		"objective" : 40
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-26-5134-01Z-00-DX1",
+		"objective" : 40
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-26-5139-01Z-00-DX1",
+		"objective" : 40
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-26-6173-01Z-00-DX1",
+		"objective" : 40
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-26-6174-01Z-00-DX1",
+		"objective" : 40
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-26-1439-01Z-00-DX1",
+		"objective" : 40
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-26-A7UX-01Z-00-DX1",
+		"objective" : 40
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-26-1443-01Z-00-DX1",
+		"objective" : 40
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-27-1830-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-27-1830-01Z-00-DX3",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-27-1831-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-27-1831-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-19-A6J4-01Z-00-DX1",
+		"objective" : 40
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-19-A6J5-01Z-00-DX2",
+		"objective" : 40
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-27-1831-01Z-00-DX4",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-27-1830-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-27-1832-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-26-5133-01Z-00-DX1",
+		"objective" : 40
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-19-A6J5-01Z-00-DX5",
+		"objective" : 40
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-27-1831-01Z-00-DX3",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-26-5136-01Z-00-DX1",
+		"objective" : 40
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-27-1833-01Z-00-DX4",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-27-1832-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-27-1834-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-27-1834-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-27-1835-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-27-1835-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-19-5955-01Z-00-DX1",
+		"objective" : 40
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-27-1836-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-27-1836-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-27-1836-01Z-00-DX3",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-26-5132-01Z-00-DX1",
+		"objective" : 40
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-27-1836-01Z-00-DX4",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-27-1838-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-27-1837-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-27-2518-01Z-00-DX1",
+		"objective" : 40
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-27-2523-01Z-00-DX1",
+		"objective" : 40
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-27-1832-01Z-00-DX4",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-28-1745-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-28-1749-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-27-1833-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-26-5135-01Z-00-DX1",
+		"objective" : 40
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-27-2521-01Z-00-DX1",
+		"objective" : 40
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-27-1833-01Z-00-DX3",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-27-2524-01Z-00-DX1",
+		"objective" : 40
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-28-1757-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-27-2526-01Z-00-DX1",
+		"objective" : 40
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-41-2571-01Z-00-DX1",
+		"objective" : 40
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-27-2528-01Z-00-DX1",
+		"objective" : 40
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-41-2575-01Z-00-DX1",
+		"objective" : 40
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-28-1750-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-41-2573-01Z-00-DX1",
+		"objective" : 40
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-41-3393-01Z-00-DX1",
+		"objective" : 40
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-27-1832-01Z-00-DX3",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-41-3915-01Z-00-DX1",
+		"objective" : 40
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-28-1746-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-27-1833-01Z-00-DX2",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-41-2572-01Z-00-DX1",
+		"objective" : 40
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-4W-AA9R-01Z-00-DX1",
+		"objective" : 40
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-81-5910-01Z-00-DX1",
+		"objective" : 40
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-4W-AA9T-01Z-00-DX1",
+		"objective" : 40
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-28-1752-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-4W-AA9S-01Z-00-DX1",
+		"objective" : 40
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-28-1751-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-81-5911-01Z-00-DX1",
+		"objective" : 40
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-28-1755-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-87-5896-01Z-00-DX1",
+		"objective" : 40
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-RR-A6KB-01Z-00-DX1",
+		"objective" : 40
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-OX-A56R-01Z-00-DX1",
+		"objective" : 40
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-41-4097-01Z-00-DX1",
+		"objective" : 40
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-RR-A6KA-01Z-00-DX1",
+		"objective" : 40
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-28-1760-01Z-00-DX1",
+		"objective" : 20
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-41-5651-01Z-00-DX1",
+		"objective" : 40
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-RR-A6KC-01Z-00-DX1",
+		"objective" : 40
+	},
+	{
+		"cancer_type" : "gbm",
+		"case_id" : "TCGA-41-3392-01Z-00-DX1",
+		"objective" : 40
+	}
+]}
