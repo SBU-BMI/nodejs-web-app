@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-web-app",
+  "version": "1.0.2",
+  "description": "RESTful Web App with Node.js, Express, and MongoDB",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "adm-zip": "^0.4.7",
+    "express": "^4.14.1",
+    "formidable": "^1.1.1",
+    "fs": "0.0.1-security",
+    "mongodb": "^2.2.22",
+    "url": "^0.11.0"
+  }
+}

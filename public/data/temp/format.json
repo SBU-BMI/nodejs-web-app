@@ -1,0 +1,8 @@
+{
+	"data": [
+	{
+		"cancer_type" : "example",
+		"case_id" : "TCGA-ex-ample-01Z-00-DX1",
+		"objective" : 40
+	}
+]}
